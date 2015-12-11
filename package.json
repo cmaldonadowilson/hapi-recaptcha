@@ -1,0 +1,31 @@
+{
+  "name": "hapi-recaptcha",
+  "version": "0.1.0",
+  "description": "Google's reCaptcha for hapi",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristobal151/hapi-recaptcha.git"
+  },
+  "keywords": [
+    "hapi",
+    "plugin",
+    "recaptcha",
+    "captcha"
+  ],
+  "author": "Cristóbal Maldonado Wilson <cristobal.maldonado@gmail.com> (https://github.com/cristobal151)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristobal151/hapi-recaptcha/issues"
+  },
+  "homepage": "https://github.com/cristobal151/hapi-recaptcha#readme",
+  "dependencies": {
+    "boom": "^3.0.0",
+    "hoek": "^3.0.4",
+    "joi": "^7.0.1",
+    "wreck": "^7.0.0"
+  }
+}
