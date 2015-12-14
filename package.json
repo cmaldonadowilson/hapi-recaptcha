@@ -1,6 +1,6 @@
 {
   "name": "hapi-recaptcha",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Google's reCaptcha for hapi",
   "main": "lib/index.js",
   "scripts": {
